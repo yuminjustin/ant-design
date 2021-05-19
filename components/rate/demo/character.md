@@ -23,7 +23,7 @@ ReactDOM.render(
     <br />
     <Rate character="A" allowHalf style={{ fontSize: 36 }} />
     <br />
-    <Rate character="好" allowHalf />
+    <Rate character="赞" allowHalf />
   </>,
   mountNode,
 );
